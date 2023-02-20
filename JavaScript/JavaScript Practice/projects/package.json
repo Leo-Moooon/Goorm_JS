@@ -1,0 +1,14 @@
+{
+  "name": "leopackage1",
+  "version": "1.0.0",
+  "description": "Leo's first package for npm projects(goorm)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0"
+  }
+}

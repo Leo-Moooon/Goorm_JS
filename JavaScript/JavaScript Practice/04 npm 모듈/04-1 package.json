@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "description:": "javascript's text programming",
+    "keywords": ["util", "f", "server", "client", "browser"],
+    "author": "Goorm",
+    "contributors": [],
+    "dependencies": [],
+    "repository": {"type": "git", "url": "git://github.com/documentcloud/test.git"},
+    "main": "test.js",
+    "version": "1.1.6"
+}

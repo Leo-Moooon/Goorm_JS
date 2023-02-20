@@ -1,0 +1,3 @@
+클라이언트 이벤트 관리: ./pucblic/index.html
+서버 이벤트 관리: ./routes/index.js
+스타일시트: ./public/stylesheets/style.css

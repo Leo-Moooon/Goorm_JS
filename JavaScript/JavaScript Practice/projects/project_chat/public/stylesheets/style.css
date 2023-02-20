@@ -1,0 +1,54 @@
+/* 전체 초기화 */
+body, a, div, form {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* CSS */
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+center {
+  width: 70%;
+}
+
+/* 부트스트랩 버튼 */
+.btn.btn-info {
+  width: 100%;
+  font-size: 20px;
+}
+
+/* 부트스트랩 textarea */
+#chatLog.form-control {
+  max-width: 100%;
+  height: 500px;
+}
+
+/* 부트스트랩 input - 닉네임 */
+#name {
+  
+  width: 35%;
+  line-height: 1em;
+}
+
+/* 부트스트랩 input - 메시지 */
+#message {
+  width: 35%;
+}
+
+/* clientList */
+#listBox {
+ width: 25%;
+ background-color: #999;
+}
